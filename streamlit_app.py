@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Iron lady😎🤟🏼")
+st.title("Iron ladyy😎🤟🏼")
 st.write(
     "i'm like some kind of supernova. WATCH OUT!😏"
 )
